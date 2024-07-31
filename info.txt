@@ -101,3 +101,4 @@ Abraham Lincoln loved cats. He had four of them while he lived in the White Hous
 Normal body temperature for a cat is 102 degrees F.
 A cat’s heart beats nearly twice as fast as a human heart, at 110 to 140 beats a minute.
 Like birds, cats have a homing ability that uses its biological clock, the angle of the sun, and the Earth's magnetic field. A cat taken far from its home can return to it. But if a cat's owners move far from its home, the cat can't find them.
+A healthy cat has a temperature between 38 and 39 degrees Celcius.
